@@ -1,0 +1,6 @@
+{
+  "name": "Morning Dashboard Pro",
+  "description": "A premium offline-first desktop homepage and morning ritual dashboard featuring habits, gratitude logs, meditation, breathing exercises, and procedural ambient sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
